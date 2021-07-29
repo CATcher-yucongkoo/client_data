@@ -2,7 +2,7 @@
     "profiles": [
         {
             "profileName": "CATcher", 
-            "encodedText": "CATcher-org/public_data"
+            "repoName": "CATcher-org/public_data"
         }
     ]
 }

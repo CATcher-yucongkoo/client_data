@@ -2,31 +2,43 @@
     "profiles": [
         {
             "profileName": "CS2103/T Alpha Test",
-            "repoName": "nus-cs2103-AY2122S1/alpha"
+            "repoName": "nus-cs2103-AY2122S2/alpha"
         },
         {
             "profileName": "CS2103/T PE Dry run",
-            "repoName": "nus-cs2103-AY2122S1/PED"
+            "repoName": "nus-cs2103-AY2122S2/PED"
         },
         {
             "profileName": "CS2103/T PE",
-            "repoName": "nus-cs2103-AY2122S1/PE"
+            "repoName": "nus-cs2103-AY2122S2/PE"
         },
         {
             "profileName": "CS2113/T Alpha Test",
-            "repoName": "nus-cs2113-AY2122S1/alpha"
+            "repoName": "nus-cs2113-AY2122S2/alpha"
         },
         {
             "profileName": "CS2113/T PE Dry run",
-            "repoName": "nus-cs2113-AY2122S1/PED"
+            "repoName": "nus-cs2113-AY2122S2/PED"
         },
         {
             "profileName": "CS2113/T PE",
-            "repoName": "nus-cs2113-AY2122S1/PE"
+            "repoName": "nus-tic4002-AY2122S2/PE"
+        }, 
+        {
+            "profileName": "TIC4002 Alpha Test",
+            "repoName": "nus-tic4002-AY2122S2/alpha"
+        },
+        {
+            "profileName": "TIC4002 PE Dry run",
+            "repoName": "nus-tic4002-AY2122S2/PED"
+        },
+        {
+            "profileName": "TIC4002 PE",
+            "repoName": "nus-tic4002-AY2122S2/PE"
         },
         {
             "profileName": "CS2103/T Tutors",
-            "repoName": "CATcher-testbed/alpha4"
+            "repoName": "CATcher-testbed/alpha5"
         }
     ]
 }

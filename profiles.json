@@ -2,31 +2,31 @@
     "profiles": [
         {
             "profileName": "CS2103/T Alpha Test",
-            "repoName": "nus-cs2103-AY2223S2/alpha"
+            "repoName": "nus-cs2103-AY2324S1/alpha"
         },
         {
             "profileName": "CS2103/T PE Dry run",
-            "repoName": "nus-cs2103-AY2223S2/PED"
+            "repoName": "nus-cs2103-AY2324S1/PED"
         },
         {
             "profileName": "CS2103/T PE",
-            "repoName": "nus-cs2103-AY2223S2/PE"
+            "repoName": "nus-cs2103-AY2324S1/PE"
         },
         {
             "profileName": "CS2113/T Alpha Test",
-            "repoName": "nus-cs2113-AY2223S2/alpha"
+            "repoName": "nus-cs2113-AY2324S1/alpha"
         },
         {
             "profileName": "CS2113/T PE Dry run",
-            "repoName": "nus-cs2113-AY2223S2/PED"
+            "repoName": "nus-cs2113-AY2324S1/PED"
         },
         {
             "profileName": "CS2113/T PE",
-            "repoName": "nus-cs2113-AY2223S2/PE"
+            "repoName": "nus-cs2113-AY2324S1/PE"
         },
         {
             "profileName": "CS2103/T Tutors",
-            "repoName": "CATcher-testbed/alpha7"
+            "repoName": "CATcher-testbed/alpha8"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "profiles": [
         {
-            "profileName": "CS2103/T Alpha Test",
+            "profileName": "CS2103/T Smoke Test",
             "repoName": "nus-cs2103-AY2425S1/catcher-smoke-test"
         },
         {
@@ -13,7 +13,7 @@
             "repoName": "nus-cs2103-AY2425S1/pe"
         },
         {
-            "profileName": "CS2113/T Alpha Test",
+            "profileName": "CS2113/T Smoke Test",
             "repoName": "nus-cs2113-AY2425S1/catcher-smoke-test"
         },
         {

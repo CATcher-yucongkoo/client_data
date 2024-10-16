@@ -2,7 +2,7 @@
     "profiles": [
         {
             "profileName": "CS2103/T Alpha Test",
-            "repoName": "nus-cs2103-AY2425S1/alpha"
+            "repoName": "nus-cs2103-AY2425S1/catcher-smoke-test"
         },
         {
             "profileName": "CS2103/T PE Dry run",
@@ -14,7 +14,7 @@
         },
         {
             "profileName": "CS2113/T Alpha Test",
-            "repoName": "nus-cs2113-AY2425S1/alpha"
+            "repoName": "nus-cs2113-AY2425S1/catcher-smoke-test"
         },
         {
             "profileName": "CS2113/T PE Dry run",
